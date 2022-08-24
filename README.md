@@ -10,3 +10,8 @@ Technologies used:
 
 1) Opencv- for the car recognition and simulation
 2) Pycharm software- for python coding
+
+The final output looks like this:
+![image](https://user-images.githubusercontent.com/95308896/186500109-605e3ebd-3633-4396-91b3-ed98f21a8a5a.png)
+
+You can make it too! You need to just follow the 
