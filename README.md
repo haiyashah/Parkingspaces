@@ -16,4 +16,4 @@ The final output looks like this:
 
 You can make it too! You need to just follow the steps, with the code provided on top.
 
-Huge shoutout to @Murtaza Hassan for the guidance.
+Huge shoutout to @Murtaza Hassan for the guidance!
