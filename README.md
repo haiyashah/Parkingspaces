@@ -1,4 +1,4 @@
-# SmartParkingManagementSystem
+# SmartParking
 
 The objective of this project is to build a smart parking management system. 
 The number of vacanies and filled parking slots in a particular parking area is detected through opencv, so that the drivers know certain details like:
