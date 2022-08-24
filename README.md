@@ -14,4 +14,6 @@ Technologies used:
 The final output looks like this:
 ![image](https://user-images.githubusercontent.com/95308896/186500109-605e3ebd-3633-4396-91b3-ed98f21a8a5a.png)
 
-You can make it too! You need to just follow the 
+You can make it too! You need to just follow the steps, with the code provided on top.
+
+Huge shoutout to @Murtaza Hassan for the guidance.
