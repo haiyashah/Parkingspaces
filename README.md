@@ -1,4 +1,4 @@
-# Smart Parking Management System
+# SmartParkingManagementSystem
 
 The objective of this project is to build a smart parking management system. 
 The number of vacanies and filled parking slots in a particular parking area is detected through opencv, so that the drivers know certain details like:
@@ -16,4 +16,4 @@ The final output looks like this:
 
 You can make it too! You need to just follow the steps, with the code provided on top.
 
-Shoutout to @Murtaza Hassan for the guidance!
+Shoutout to Murtaza Hassan for the guidance!
